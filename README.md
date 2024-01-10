@@ -2,6 +2,7 @@
 
 Exercicio do Curso
 Basicamente uma aplicação react que possui 3 principais funções:
+
     - Informe formulario: Onde o usuario informa o email e o comentario
     ![Alt text](public/imagem1.png)
     - Adicionar comentário: Ao clicar no botão o comentário é adicionado
